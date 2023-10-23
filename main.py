@@ -1,9 +1,14 @@
+# Conversor de celsius p/ fahrenheit e vice e versa
 
 from conversor import celsius_para_fahrenheit, fahrenheit_para_celsius
 
 while True:
+        # • Apresentação
+        
         print('\n\t\t • Conversor • \n\t\t')
 
+        # • Entrada/Processamento/Saída
+        
         print('Escolha uma opção:')
         print('1. Converter de Celsius para Fahrenheit')
         print('2. Converter de Fahrenheit para Celsius')
